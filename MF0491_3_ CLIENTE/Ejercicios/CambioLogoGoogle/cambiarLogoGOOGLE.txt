@@ -1,0 +1,6 @@
+yahoo_frontpage_en-US_s_f_p_205x58_frontpage_2x.png
+
+document.body.style.background='red'
+document.getElementsByClassName('lnXdpd')[0].src = "https://s.yimg.com/rz/p/yahoo_frontpage_en-US_s_f_p_205x58_frontpage_2x.png"
+document.getElementsByClassName('gNO89b')[1].value="Buscar con Yahoo"
+document.getElementsByClassName('RNmpXc')[1].value= "Patricio"
